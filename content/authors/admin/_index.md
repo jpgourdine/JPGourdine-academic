@@ -74,8 +74,6 @@ email: ''
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Jean-Philippe Gourdine is a visiting-assistant professor of Chemistry at Lewis and Clark College in Portland OR. His teachings include Structural Biochemistry & Perspectives in Nutrition (Fall), Metabolic Biochemistry & Organic Chemistry (Spring). He co-leads a research project at OHSU in the Karstens Lab about Bladder Microbiome and the use of host glycans in the context of Overactive Bladder Syndrome.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
