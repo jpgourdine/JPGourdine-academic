@@ -25,6 +25,8 @@ interests:
   - Glycobiology
   - Human Microbiome
   - Human Genetics
+  - Reproducible Research
+  - RStudio
 
 # Education to show in About widget
 education:
@@ -35,7 +37,7 @@ education:
     - course: Master in Biodiversity (Genetics, Organic Chemistry)
       institution: Université des Antilles et de la Guyane
       year: 2002
-    - course: BSc in Life and Earth Sciences (Biology - Geology - Chemistry - Maths)
+    - course: BSc in Life and Earth Sciences (Biology-Geology-Chemistry-Maths)
       institution: Université des Antilles et de la Guyane
       year: 2000
 
