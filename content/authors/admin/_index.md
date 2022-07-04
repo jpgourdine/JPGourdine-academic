@@ -1,39 +1,43 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Dr. Jean-Philippe Gourdine
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Visiting-Assistant Professor in Chemistry & Senior Research Associate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Lewis and Clark College, Portland Oregon
+    url: https://www.lclark.edu
+  - name: Oregon Health & Science University (OHSU)
+    url: https://www.ohsu.edu/
+  - name: The Karstens Lab at OHSU
+    url: https://karstenslab.github.io/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include glycobiology, glycan-binding proteins, human microbiome & data standards.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Glycobiology
+  - Human Microbiome
+  - Human Genetics
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Marine Biochemistry
+      institution: Université des Antilles et de la Guyane
+      year: 2006
+    - course: Master in Biodiversity (Genetics, Organic Chemistry)
+      institution: Université des Antilles et de la Guyane
+      year: 2002
+    - course: BSc in Life and Earth Sciences (Biology - Geology - Chemistry - Maths)
+      institution: Université des Antilles et de la Guyane
+      year: 2000
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -45,16 +49,16 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/docteurjayp
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=muGvEz4AAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/jpgourdine
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/jean-philippe-gourdine-phd-5021501b/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
