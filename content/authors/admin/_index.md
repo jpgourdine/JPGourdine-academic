@@ -65,17 +65,17 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+  - icon: cv
+   icon_pack: ai
+   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'jgourdine@lclark.edu'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Jean-Philippe Gourdine is a visiting-assistant professor of Chemistry at Lewis and Clark College in Portland OR. His teachings include Structural Biochemistry & Perspectives in Nutrition (Fall), Metabolic Biochemistry & Organic Chemistry (Spring). He co-leads a research project at OHSU in the Karstens Lab about Bladder Microbiome and the use of host glycans in the context of Overactive Bladder Syndrome.
+I am a visiting-assistant professor of Chemistry at Lewis and Clark College in Portland OR. My teachings include Structural Biochemistry & Perspectives in Nutrition (Fall), Metabolic Biochemistry & Organic Chemistry (Spring). I co-lead a research project at OHSU in the Karstens Lab about Bladder Microbiome and the use of host glycans in the context of Overactive Bladder Syndrome.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
