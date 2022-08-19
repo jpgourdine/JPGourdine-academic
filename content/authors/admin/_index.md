@@ -76,6 +76,6 @@ email: 'jgourdine@lclark.edu'
 highlight_name: true
 ---
 
-I am a visiting-assistant professor of Chemistry at Lewis and Clark College in Portland OR. My teachings include Structural Biochemistry & Perspectives in Nutrition (Fall), Metabolic Biochemistry & Organic Chemistry (Spring). I co-lead a research project at OHSU in the Karstens Lab about Bladder Microbiome and the use of host glycans in the context of Overactive Bladder Syndrome ([kuddos to the Circle of Giving!](https://www.ohsu.edu/womens-health/circle-giving#:~:text=Established%20in%202006%2C%20the%20Center,women's%20health%20research%20at%20OHSU)).
+I am a visiting-assistant professor of Chemistry at Lewis and Clark College in Portland OR. My teachings include Structural Biochemistry & Perspectives in Nutrition (Fall), Metabolic Biochemistry & Practical Organic Chemistry (Spring). I co-lead a research project at OHSU in the Karstens Lab about Bladder Microbiome and the use of host glycans in the context of Overactive Bladder Syndrome ([kuddos to the Circle of Giving!](https://www.ohsu.edu/womens-health/circle-giving#:~:text=Established%20in%202006%2C%20the%20Center,women's%20health%20research%20at%20OHSU)).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
